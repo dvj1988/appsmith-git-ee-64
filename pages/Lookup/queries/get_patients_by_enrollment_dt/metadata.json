@@ -24,7 +24,7 @@
     ],
     "name": "get_patients_by_enrollment_dt",
     "pageId": "Lookup",
-    "runBehaviour": "ON_PAGE_LOAD",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }
