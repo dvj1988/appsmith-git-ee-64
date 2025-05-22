@@ -559,7 +559,7 @@
   "minDynamicHeight": 4,
   "minWidth": 450,
   "onSubmit": "{{\n\nawait patient_helper_obj.update_patient(patient_lookup_table?.selectedRow[\"Database ID\"] || \"\", patient_lookup_table?.selectedRow[\"Member ID\"] || \"\", patient_lookup_table?.selectedRow[\"Enrollment Status\"] || \"\", patient_info_form?.formData)\n\n}}",
-  "originalBottomRow": 309,
+  "originalBottomRow": 369,
   "originalTopRow": 0,
   "parentColumnSpace": 34.078125,
   "parentId": "4nudz2q3k0",
